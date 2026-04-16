@@ -1,7 +1,4 @@
-***
-
-
-
+'''
 this -> Identifier
 is -> Keyword
 a -> Identifier
@@ -14,7 +11,4 @@ a -> Identifier
 b -> Identifier
 = -> Operator
 20 -> Literal
-
-
-  
-***
+  '''
