@@ -1,12 +1,12 @@
 this -> Identifier <br>
-is -> Keyword
-a -> Identifier
-int -> Keyword
-= -> Operator
-10 -> Literal
-and -> Keyword
-a -> Identifier
-+ -> Operator
-b -> Identifier
-= -> Operator
-20 -> Literal
+is -> Keyword <br>
+a -> Identifier <br>
+int -> Keyword <br>
+= -> Operator <br>
+10 -> Literal <br>
+and -> Keyword <br>
+a -> Identifier <br>
++ -> Operator <br>
+b -> Identifier <br>
+= -> Operator <br>
+20 -> Literal <br>
